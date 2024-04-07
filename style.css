@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#head{
+    background-color: rgb(41,40,40);
+}
+
+.h{
+    text-align: center;
+    color: white;
+}
+
+.pic{
+    width: 1%;
+    /* margin-right: 96%; */
+}
+
+#main{
+    width: 60%;
+    margin-left: 10%;
+}
